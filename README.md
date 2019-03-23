@@ -1,4 +1,6 @@
 # Witaj CoderDojo Koszalin
+![infografika](https://img.shields.io/static/v1.svg?label=CoderDojo&message=Koszalin&color=blue?style=plastic)
+
 ![logo1](https://github.com/coderdojokoszalin/meet/blob/master/images/cd_logo.png)
 
 Tutaj będziemy publikować pliki potrzebne do naszych zajęć, oraz informacje co robiliśmy na kolejnych spotkaniach.
