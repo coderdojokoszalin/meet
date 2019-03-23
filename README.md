@@ -7,3 +7,5 @@ Jeśli potrzebujesz kontaktu z mentorem po zajęciach to pisz na email:
 
 #### Nasze spotkania odbywają się w wybrane wtorki w ComputerCollege Koszalin
 1. 19.03.2019r.
+
+![logo2](https://github.com/coderdojokoszalin/meet/blob/master/images/cd_logo.png)
