@@ -1,7 +1,7 @@
 # Witaj CoderDojo Koszalin
 ![logo1](https://github.com/coderdojokoszalin/meet/blob/master/images/cd_logo.png)
 
-Tutaj będziemy publikować pliki potrzebne do naszych zajęć, oraz informacje co robilismy na kolejnych spotkaniach.
+Tutaj będziemy publikować pliki potrzebne do naszych zajęć, oraz informacje co robiliśmy na kolejnych spotkaniach.
 Jeśli potrzebujesz kontaktu z mentorem po zajęciach to pisz na email: 
 - [Kazimierz Raczyński](mailto:raczyk@gmail.com)
 
