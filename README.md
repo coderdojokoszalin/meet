@@ -1,5 +1,5 @@
 # Witaj CoderDojo Koszalin
-![infografika](https://img.shields.io/static/v1.svg?label=CoderDojo&message=Koszalin&color=blue?style=plastic?link=https://github.com/coderdojokoszalin)
+![infografika](https://img.shields.io/static/v1.svg?label=CoderDojo&message=Koszalin&color=blue?style=plastic&link=https://github.com/coderdojokoszalin)
 
 ![logo1](https://github.com/coderdojokoszalin/meet/blob/master/images/cd_logo.png)
 
