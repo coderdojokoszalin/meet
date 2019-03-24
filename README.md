@@ -1,5 +1,5 @@
 # Witaj CoderDojo Koszalin
-![infografika](https://img.shields.io/static/v1.svg?label=CoderDojo&message=Koszalin&color=blue?style=plastic&link=https://github.com/coderdojokoszalin)
+[![infografika](https://img.shields.io/static/v1.svg?label=CoderDojo&message=Koszalin&color=blue?style=plastic)][Koszalin]
 
 ![logo1](https://github.com/coderdojokoszalin/meet/blob/master/images/cd_logo.png)
 
@@ -12,3 +12,5 @@ Jeśli potrzebujesz kontaktu z mentorem po zajęciach to pisz na email:
 2. Podamy datę - zagadnienia GitHub (tworzenie repozytorium), praca z plikami .md, poznanie znaczników MARKDOWN, VSC i dalsze zajęcia z HTML. Cel: Nauczyć się przygotowywać dokumentację projektu README.md w repo.
 
 **UWAGA! Bardzo ważne byś podczas zajęć miał możliwośc logowania się na swoje konto e-mail oraz github.com - pamietaj i login i haśle.**
+
+[Koszalin]: https://github.com/coderdojokoszalin
