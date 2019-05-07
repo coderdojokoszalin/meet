@@ -13,6 +13,6 @@ Jeśli potrzebujesz kontaktu z mentorem po zajęciach to pisz na email:
 3. 07.05.2019r. - Instalacja GIT. Konfiguracja użytkownika. Praca w konsoli ( git init, git log). VSC - szablon HTML + pierwszy commit. Dodanie extensions (open in browser). Jak dodać kilka elementów <a> na raz a*4.
 4. Planowane spotkanie 21.05.2019r. - HTML, CSS
 
-**UWAGA! Bardzo ważne byś podczas zajęć miał możliwośc logowania się na swoje konto e-mail oraz github.com - pamietaj i login i haśle.**
+**UWAGA! Przychodzimy z własnym komputerem. Bardzo ważne byś podczas zajęć miał możliwośc logowania się na swoje konto e-mail oraz github.com - pamietaj o loginie i haśle.**
 
 [Koszalin]: https://github.com/coderdojokoszalin
